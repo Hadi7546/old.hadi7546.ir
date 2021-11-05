@@ -1,4 +1,4 @@
-var CountDownDate = new Date("Mar 15, 2050 12:00:00").getTime();
+var CountDownDate = new Date("December 1, 2021 00:00:00").getTime();
 
 var countdownfunction = setInterval(function() {
 
